@@ -1,0 +1,7 @@
+Hello Second text 
+Add new Text
+Second Branch Remote update
+Second Brach update remotely
+Add text for testing merge in third branch
+Add Spare Checkout
+Add Spare Checkout2
