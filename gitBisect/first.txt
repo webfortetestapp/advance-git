@@ -1,2 +1,3 @@
 Hello jack
 Hello Hi
+Hide Text
