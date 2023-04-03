@@ -1,4 +1,4 @@
-Hello Second text 
+Hello Second texts 
 Add new Text
 Second Branch Remote update
 Second Brach update remotely
